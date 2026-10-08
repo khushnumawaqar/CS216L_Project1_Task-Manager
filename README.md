@@ -1,10 +1,10 @@
 ## Project Title
 Task Manager
 
-##Group Name
+Group Name
 CS216L_Project1_Task Manager
 
-##Group Members:
+Group Members:
 1)Khushnuma Waqar(3)
 2)Malaika Shoaib(48)
 3)Maryam Barkat(28)
